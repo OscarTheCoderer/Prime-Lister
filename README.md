@@ -1,12 +1,8 @@
 # Prime-Finder-2000-Pro
 Finds primes at maximum speed!!
 
-Step 1: Download "primelister2.py"
-Step 2: Create a .txt file called "testprimes.txt"
-Step 3: Add the following to the .txt:
+Step 1: Download "primelister2.py" and "testlist.txt"
+Step 2: Run "primelister2.py", enter "150000000" when promted for a limit and let the program run.
 
-2
-3
-5
-7
-INCLUDE NEW LINE HERE
+You now have a list of the first 8900000 primes.
+
