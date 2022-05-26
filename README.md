@@ -14,6 +14,7 @@ Once the program is finished, you can look at "primelist.txt". You should have a
 Now that you have a backlog of primes, you can move on to "primelisterV3.py". This program locates the end of "primelist.txt" and continues finding primes from there. (as does the first program).
 However, instead of dividing each number by every number up to its square root, it divides only by prime numbers.
 This is why the first program was required: to generate primes to divide by.
+This is almost 400% faster.
 
 Just open the program, and it will start going!!!
 
