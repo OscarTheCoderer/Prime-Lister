@@ -1,7 +1,12 @@
 # Prime-Finder-2000-Pro
 Finds primes at maximum speed!!
 
-Download all the files.
+## Installation
+Simply clone the repo.
+Use:
+```git clone https://github.com/OscarTheCoderer/Prime-Lister.git && cd Prime-Lister ```
+or unpack the ZIP.
+## Usage
 
 "primelist.txt" is just a text file with the first few primes in it. Just leave it for now.
 
@@ -17,4 +22,4 @@ This is why the first program was required: to generate primes to divide by.
 This is almost 400% faster.
 
 Just open the program, and it will start going!!!
-
+If you find any bugs in the code, do not hesitate to contact us by creating an issue.
