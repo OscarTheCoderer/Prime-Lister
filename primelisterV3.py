@@ -22,7 +22,7 @@ def isprime(num):
             break
         elif num % prime == 0:
             return False
-    if sqrt > biggesttestprime:
+    if sqrt < biggesttestprime:
         for testnum in range(biggesttestprime, sqrt):
             if prime % testnum == 0:
                 return False
